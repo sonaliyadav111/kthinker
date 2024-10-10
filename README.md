@@ -1,2 +1,4 @@
 # kthinker
-This ia my repository
+#This ia my repository
+#Author - Sonali yadav
+
